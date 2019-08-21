@@ -1,6 +1,5 @@
 <?php
-###Ini Copyright###
-###https://github.com/osyduck/Gojek-Register###
+###Aldog jancok dibunuh saja###
 
 include ("function.php");
 
@@ -150,7 +149,7 @@ if ($login == false)
 		$claim = claim($verif);
 		if ($claim == false)
 			{
-			echo "Failed to Claim Voucher, Try to Claim Manually\n";
+			echo "Failed to Claim Voucher, SGB asu\n";
 			}
 		  else
 			{
